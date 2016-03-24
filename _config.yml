@@ -1,0 +1,28 @@
+name: AtulJainMD
+favicon: null
+layout_spectrum: 0.9956244770437479
+typography_spectrum: 0.10272827534936368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.35460056620649993
+  lightness: 0.44821468368172646
+  saturation: 0.3539702829439193
+  rhythmicContrast: 0.9883964923210442
+purpose: []
